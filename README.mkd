@@ -1,0 +1,13 @@
+# ShowMeYourDirs
+
+ I use [RubyStack](http://bitnami.org/stack/rubystack) on my local server. Prior to that I used [WAMP](http://www.wampserver.com/en/) and then [EasyPHP](http://www.easyphp.org/). Both of them provided an index file that listed all the files/folders. RubyStack does not. I needed a replacement -- this file was born.
+
+* Lists all files and folders in a directory.
+* Separates folders and files into two DIV tags, taking up 50% of the screen (horizontally) for each list.
+* Is *not* multi-level. Clicking on a directory launches that directory.
+
+**Not tested on a production server.**
+
+## Notes
+
+This will probably not get much attention as it does everything I want (so far). I'll possibly expand on it more later.
