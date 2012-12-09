@@ -132,11 +132,6 @@ foreach($scan as $idf => $file)
 }
 
 echo "
-				<tr>
-					<td class='tfoot' colspan='2'>
-						powered by <a href='#'>showmeyourdirs</a>
-					</td>
-				</tr>
 			</table>
 		</div>
 		<table cellspacing='1' style='width: 50%;'>
